@@ -43,6 +43,10 @@ No frameworks. No libraries. No bloat.
 
 ---
 
+
+Suggested demo path---> get started-> engineering-> iit Bombay
+
+
 ## Project Structure
 
 
